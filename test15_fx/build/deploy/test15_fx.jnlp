@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="test15_fx.jnlp">
+  <information>
+    <title>test15_fx</title>
+    <vendor>tatsuru_takahashi</vendor>
+    <description>YATTEMIYO!_TANBUN_00</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="test15_fx.jar" size="67262" download="eager" />
+  </resources>
+  <application-desc main-class="application.Main"  name="YATTEMIYO!_TANBUN_00" >
+  </application-desc>
+  <update check="background"/>
+</jnlp>
